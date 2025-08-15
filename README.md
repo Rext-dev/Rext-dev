@@ -7,7 +7,7 @@ Neutrales: #1E1E2E / #2A2A40 / #E4E4E7
 
 <!-- HEADER -->
 <h1 align="center">Hi there, I'm <span style="color:#FF4D5A;">Enrique</span> 👋</h1>
-<h3 align="center">Commercial Software Engineering Student • Full‑Stack & Robotics Enthusiast</h3>
+<h3 align="center">Commercial Software Engineering Student • Back-End & Robotics Enthusiast</h3>
 
 <p align="center">
   <em>Bridging robust backend engineering with intelligent automation & robotics.</em>

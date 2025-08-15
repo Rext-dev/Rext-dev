@@ -2,7 +2,7 @@
 Colores:
 Primario: #FF4D5A
 Secundario: #6C63FF
-Nuestrales: #1E1E2E / #2A2A40 / #E4E4E7
+Neutrales: #1E1E2E / #2A2A40 / #E4E4E7
 -->
 
 <!-- HEADER -->
@@ -80,9 +80,10 @@ Nuestrales: #1E1E2E / #2A2A40 / #E4E4E7
 
 ### 🤖 Robotics Angle
 I aim to merge software craftsmanship with **physical systems**, focusing on:
-- Translating abstract logic into hardware behavior.
-- Modular architectures for future robot control layers.
-- Potential future exploration: ROS, microcontroller firmware bridges, edge inference.
+- Translating abstract logic into hardware behavior
+- Modular architectures for future robot control layers
+- Current and future hardware: ESP32, Arduino, and microcontroller bridges
+- Potential future exploration: ROS and edge inference
 
 ---
 
@@ -111,6 +112,7 @@ I aim to merge software craftsmanship with **physical systems**, focusing on:
 | Testing | Jest coverage foundation | Introduce integration tests |
 | Robotics | Ideation & prototyping | an Alexa-like intelligent bot |
 | Open Source | Personal ecosystem | Contribute to AI / robotics libs |
+| IoT | Creating a Client/Server architecture for IoT devices | Implement communication protocols (MQTT, HTTP...) |
 
 ---
 
@@ -126,6 +128,8 @@ I aim to merge software craftsmanship with **physical systems**, focusing on:
 - [ ] Create first robotics prototype repo
 - [ ] Expand language coverage metrics
 - [ ] Add project demo GIFs
+- [ ] Explore mesh networking
+- [ ] Study client-server architecture patterns for embedded IoT systems (ESP32/Arduino)
 
 ---
 
@@ -138,7 +142,7 @@ I aim to merge software craftsmanship with **physical systems**, focusing on:
 ---
 
 ### ✨ Want to Collaborate?
-feel free to open an Issue or Discussion on any repository.
+Feel free to open an Issue or Discussion on any repository.
 
 <p align="center">
   <a href="https://x.com/RextDev" target="_blank" style="text-decoration:none;">

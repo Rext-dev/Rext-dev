@@ -12,11 +12,11 @@ Neutrales: #1E1E2E / #2A2A40 / #E4E4E7
 <p align="center">
   <em>Bridging robust backend engineering with intelligent automation & robotics.</em>
 </p>
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rext-dev&style=flat&color=FF4D5A" alt="profile views" />
 </p>
-
+-->
 ---
 
 ### 🚀 About Me
@@ -116,14 +116,8 @@ I aim to merge software craftsmanship with **physical systems**, focusing on:
 
 ---
 
-### 💬 Optional Personal Touch
-
-> I want to make a robot like Wall‑E.
-
----
-
 ### 📌 Roadmap
-- [ ] Publish documentation for SetAi-API
+- [x] Publish documentation for SetAi-API
 - [ ] Add CI pipeline (lint + tests) for main repos
 - [ ] Create first robotics prototype repo
 - [ ] Expand language coverage metrics

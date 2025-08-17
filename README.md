@@ -125,6 +125,7 @@ I aim to merge software craftsmanship with **physical systems**, focusing on:
 - [ ] Add project demo GIFs
 - [ ] Explore mesh networking
 - [ ] Study client-server architecture patterns for embedded IoT systems (ESP32/Arduino)
+- [ ] A short link service (maybe?)
 
 ---
 

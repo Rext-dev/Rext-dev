@@ -126,6 +126,9 @@ I aim to merge software craftsmanship with **physical systems**, focusing on:
 - [ ] Explore mesh networking
 - [ ] Study client-server architecture patterns for embedded IoT systems (ESP32/Arduino)
 - [ ] A short link service (maybe?)
+- [ ] DDNS docker app
+  - [ ] connect with cloudfare api
+  - [ ] Redis channel update 
 
 ---
 

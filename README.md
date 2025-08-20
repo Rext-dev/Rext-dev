@@ -76,7 +76,7 @@ Neutrales: #1E1E2E / #2A2A40 / #E4E4E7
 |---------|----------|------------|
 | [**SetAi-bot**](https://github.com/Rext-dev/SetAi-bot) | An AI-driven Discord bot. | bot logic, extensibility |
 | [**SetAi-API**](https://github.com/Rext-dev/SetAi-API) | Backend API powering intelligent features. | API design, modular backend, scalability path |
-
+| [**DDNS Updater**](https://github.com/Rext-dev/ddns-updater) | A DDNS service to update your Public IP in a service like Cloudfare. | Docker, cron, CI/CD |
 ---
 
 ### 🤖 Robotics Angle
@@ -114,21 +114,21 @@ I aim to merge software craftsmanship with **physical systems**, focusing on:
 | Robotics | Ideation & prototyping | an Alexa-like intelligent bot |
 | Open Source | Personal ecosystem | Contribute to AI / robotics libs |
 | IoT | Creating a Client/Server architecture for IoT devices | Implement communication protocols (MQTT, HTTP...) |
+| DDNS | Desing architecture and review helpful tools | Start project and consume the Cloudflare API |
 
 ---
 
 ### 📌 Roadmap
-- [x] Publish documentation for SetAi-API
 - [ ] Add CI pipeline (lint + tests) for main repos
 - [ ] Create first robotics prototype repo
-- [ ] Expand language coverage metrics
 - [ ] Add project demo GIFs
 - [ ] Explore mesh networking
 - [ ] Study client-server architecture patterns for embedded IoT systems (ESP32/Arduino)
-- [ ] A short link service (maybe?)
+- [ ] A short link service (waiting finish a project)
 - [ ] DDNS docker app
   - [ ] connect with cloudfare api
-  - [ ] Redis channel update 
+  - [ ] Redis channel update
+  - [ ] Learn CRON
 
 ---
 

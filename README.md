@@ -32,16 +32,16 @@ Neutrales: #1E1E2E / #2A2A40 / #E4E4E7
 ### 🧠 Core Technical Stack
 
 **Languages**
-`Java` · `Python` · `C / C++` · `C# (Uno Platform)` · `JavaScript/TypeScript`
+`Java` · `Python` · `C / C++` · `JavaScript/TypeScript`
 
 **Backend & Frameworks**
-`Spring Boot` · `NestJS` · `Node.js` · `Express` · `Jest` · `REST / WebSockets / MQTT` 
+`Spring Boot` · `NestJS` · `Express` · `Jest` · `REST / WebSockets / MQTT` 
 
 **Databases & Data**
 `SQL` · `PostgreSQL / MySQL`
 
 **Cross‑Platform / UI**
-`Uno Platform (C#)` · `Basic Web (HTML/CSS)`
+`Basic Web (HTML/CSS)`
 
 **Tooling & Practices**
 `Git` · `Containerization (learning)` · `Clean Architecture` · `Testing & CI/CD (learning)` · `Design patterns` · `SOLID`
@@ -53,7 +53,7 @@ Neutrales: #1E1E2E / #2A2A40 / #E4E4E7
   <summary><strong>Visual Tech Stack Grid</strong></summary>
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,spring,nodejs,nestjs,express,postgres,mysql,git,docker&perline=8" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,spring,nodejs,nestjs,express,postgres,mysql,git,docker&perline=8" alt="tech stack" />
   </p>
   
   <p align="center">

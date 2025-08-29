@@ -77,6 +77,7 @@ Neutrales: #1E1E2E / #2A2A40 / #E4E4E7
 | [**SetAi-bot**](https://github.com/Rext-dev/SetAi-bot) | An AI-driven Discord bot. | bot logic, extensibility |
 | [**SetAi-API**](https://github.com/Rext-dev/SetAi-API) | Backend API powering intelligent features. | API design, modular backend, scalability path |
 | [**DDNS Updater**](https://github.com/Rext-dev/ddns-updater) | A DDNS service to update your Public IP in a service like Cloudfare. | Docker, cron, CI/CD |
+| [**Smart ESP32 client**](https://github.com/Rext-dev/smart-esp32) | An smart ESP32 using an API | ... | 
 ---
 
 ### 🤖 Robotics Angle
